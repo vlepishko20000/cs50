@@ -1,0 +1,764 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mysql",
+				"mysql_connect"
+			],
+			[
+				"off",
+				"offsetUnset〔function〕"
+			],
+			[
+				"req",
+				"$request〔variable〕"
+			],
+			[
+				"pos",
+				"$postModel〔variable〕"
+			],
+			[
+				"Route",
+				"Route::post\tBasic Post Route."
+			],
+			[
+				"Collec",
+				"Collective\\Html\\FormFacade〔class〕"
+			],
+			[
+				"pad",
+				"padding-right"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"Posts",
+				"PostsSeender"
+			],
+			[
+				"time",
+				"timestamps"
+			],
+			[
+				"Rou",
+				"Route::resource\tRoute to a RESTful Controller"
+			],
+			[
+				"s",
+				"sql"
+			],
+			[
+				"html",
+				"htmlspecialchars〔function〕"
+			],
+			[
+				"htm",
+				"htmlspecialchars〔function〕"
+			],
+			[
+				"forea",
+				"foreach〔keyword〕"
+			],
+			[
+				"mysql_num",
+				"mysql_num_fields"
+			],
+			[
+				"mysql_",
+				"mysql_connect〔function〕"
+			],
+			[
+				"text",
+				"textarea\tTag"
+			],
+			[
+				"str_re",
+				"str_replace〔function〕"
+			],
+			[
+				"preg",
+				"preg_match〔function〕"
+			],
+			[
+				"preg_ma",
+				"preg_match_all〔function〕"
+			],
+			[
+				"for",
+				"for〔keyword〕"
+			],
+			[
+				"arr",
+				"array_slice〔function〕"
+			],
+			[
+				"exp",
+				"explode〔function〕"
+			],
+			[
+				"fc",
+				"fclose($fp"
+			],
+			[
+				"is",
+				"is_int"
+			],
+			[
+				"val",
+				"$value〔variable〕"
+			],
+			[
+				"fo",
+				"foreach\tforeach …"
+			],
+			[
+				"boo",
+				"$books〔variable〕"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"n",
+				"natsort"
+			],
+			[
+				"o",
+				"option\tTag"
+			],
+			[
+				"print",
+				"print_r〔function〕"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"pare",
+				"parents〔function〕"
+			],
+			[
+				"func",
+				"function〔keyword〕"
+			],
+			[
+				"sc",
+				"scripts"
+			],
+			[
+				"form",
+				"form"
+			],
+			[
+				"arra",
+				"array_keys〔function〕"
+			],
+			[
+				"in",
+				"$info〔variable〕"
+			],
+			[
+				"echo",
+				"apd_echo"
+			],
+			[
+				"r",
+				"ret1\treturn true"
+			],
+			[
+				"va",
+				"var_dump"
+			],
+			[
+				"var",
+				"variant_imp〔function〕"
+			],
+			[
+				"mt",
+				"mt_rand"
+			],
+			[
+				"int",
+				"intval"
+			],
+			[
+				"x",
+				"x1"
+			],
+			[
+				"ct",
+				"ctype_alpha"
+			],
+			[
+				"pri",
+				"print_r"
+			],
+			[
+				"pr",
+				"print"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"res",
+				"responseTxt"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Users/Jaood/Desktop/abc/index.php",
+			"settings":
+			{
+				"buffer_size": 371,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Jaood/Desktop/abc/p.php",
+			"settings":
+			{
+				"buffer_size": 567,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/wamp64/www/abc/index.php",
+			"settings":
+			{
+				"buffer_size": 367,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/wamp64/www/abc/p.php",
+			"settings":
+			{
+				"buffer_size": 536,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "enable",
+		"selected_items":
+		[
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Wrap in try { … } catch (…) { … }"
+			]
+		],
+		"width": 886.0
+	},
+	"console":
+	{
+		"height": 131.0,
+		"history":
+		[
+			"ls",
+			"echo 'text'",
+			"echo \"text\"",
+			"echo text",
+			"echo 1"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/wamp64/www/blog",
+		"/D/wamp64/www/blog/database",
+		"/D/wamp64/www/blog/database/migrations",
+		"/D/wamp64/www/blog/resources",
+		"/D/wamp64/www/blog/resources/assets",
+		"/D/wamp64/www/blog/resources/views",
+		"/D/wamp64/www/blog/routes"
+	],
+	"file_history":
+	[
+		"/C/Users/Jaood/Desktop/abc/index.php-tmp",
+		"/C/Users/Jaood/Desktop/abc/p.php-tmp",
+		"/C/Users/Jaood/Desktop/abc/p.php",
+		"/C/Users/Jaood/Desktop/abc/index.php",
+		"/D/wamp64/www/abc/p.php",
+		"/D/wamp64/www/exam/index.php",
+		"/D/wamp64/www/exam/p.php",
+		"/D/wamp64/www/loadedsite/resources/views/home.blade.php",
+		"/D/wamp64/www/blog/resources/views/home.blade.php",
+		"/D/wamp64/www/blog/app/Http/Controllers/PostController.php",
+		"/D/wamp64/www/blog/routes/web.php",
+		"/D/wamp64/www/blog/resources/views/layouts/app.blade.php",
+		"/D/wamp64/www/loadedsite/app/Topic.php",
+		"/D/wamp64/www/loadedsite/app/Question.php",
+		"/D/wamp64/www/blog/database/migrations/2017_11_30_001102_create_posts_table.php",
+		"/D/wamp64/www/blog/resources/views/test.blade.php",
+		"/D/wamp64/www/blog/database/seeds/DatabaseSeeder.php",
+		"/D/wamp64/www/loadedsite/routes/web.php",
+		"/D/wamp64/www/loadedsite/app/User.php",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/Windows/System32/drivers/etc/hosts.ics",
+		"/C/Users/Jaood/Desktop/backup.json",
+		"/D/wamp64/www/blog/app/Http/Controllers/HomeController.php",
+		"/D/wamp64/www/loadedsite/.env",
+		"/C/Users/Jaood/Downloads/Лабораторная работа №4 (3).ipynb",
+		"/D/GDrive/C# Projects/Mafia/Mafia/bin/Debug/resources/mob1.script",
+		"/C/Windows/System32/drivers/etc/lmhosts.sam",
+		"/C/Windows/System32/drivers/etc/networks",
+		"/C/Windows/System32/drivers/etc/protocol",
+		"/C/Users/Jaood/ЛР 9/LR9.ipynb",
+		"/D/wamp64/www/blog/app/Apartament.php",
+		"/D/wamp64/www/blog/database/migrations/2017_12_14_045619_CreateApartamentsTable.php",
+		"/C/Users/Jaood/Downloads/2.php-tmp",
+		"/D/wamp64/www/firstproj/index.php",
+		"/D/WebServers/home/IP/www/index.php",
+		"/D/wamp64/www/firstproj/2.php",
+		"/C/Users/Jaood/Desktop/equalization/form_equalization.cpp",
+		"/D/WebServers/home/InternetProgramming/www/index.php",
+		"/D/WebServers/home/TEST11/www/index.html",
+		"/D/backupParts/part4/загрузки/information.sql",
+		"/D/WebServers/home/IP2/www/lab2.php",
+		"/D/WebServers/home/IP2/www/lab2.html",
+		"/D/wamp64/bin/php/php7.1.9/php.ini",
+		"/D/wamp64/bin/php/php5.6.31/php.ini",
+		"/D/wamp64/sendmail/sendmail.ini",
+		"/D/WebServers/home/IP7/www/add.php",
+		"/D/wamp64/bin/apache/apache2.4.27/bin/php.ini",
+		"/D/wamp64/www/blog/app/Post.php",
+		"/D/wamp64/www/blog/composer.json",
+		"/D/wamp64/www/blog/config/app.php",
+		"/D/wamp64/www/blog/public/image/1.webp",
+		"/D/wamp64/www/blog/app/Http/Controllers/PagesController.php",
+		"/D/wamp64/www/blog/.env",
+		"/D/wamp64/www/blog/resources/views/auth/login.blade.php",
+		"/D/wamp64/www/blog/app/Category.php",
+		"/D/wamp64/www/blog/app/Http/Controllers/PostsController.php",
+		"/D/WebServers/home/IP6/www/index.php",
+		"/D/WebServers/home/IP5/www/index4.php",
+		"/D/WebServers/home/IP5/www/process.php",
+		"/D/wamp64/www/blog/app/Models/Category.php",
+		"/D/wamp64/www/blog/app/Models/Post.php",
+		"/D/wamp64/www/blog/app/Models/User.php",
+		"/D/wamp64/www/blog/app/Providers/AppServiceProvider.php",
+		"/D/wamp64/www/blog/.env.example",
+		"/D/wamp64/www/blog/database/migrations/2017_11_29_224741_create_tests_table.php",
+		"/D/wamp64/www/blog/database/migrations/2017_11_29_223522_posts.php",
+		"/D/wamp64/www/blog/resources/views/welcome.blade.php",
+		"/D/wamp64/www/blog/public/css/app.css",
+		"/D/wamp64/www/test_sockets.php",
+		"/D/wamp64/www/testmysql.php",
+		"/D/wamp64/www/blog/resources/assets/sass/app.scss",
+		"/D/wamp64/www/blog/vendor/laravel/framework/src/Illuminate/Http/Request.php",
+		"/D/WebServers/home/IP5/www/index.html",
+		"/C/Users/Jaood/Documents/Arduino/libraries/MPU6050/MPU6050.cpp",
+		"/C/Users/Jaood/Documents/Arduino/libraries/MPU6050/MPU6050_9Axis_MotionApps41.h",
+		"/C/Users/Jaood/Documents/Arduino/libraries/MPU6050/helper_3dmath.h",
+		"/C/Users/Jaood/Documents/Arduino/libraries/MPU6050/MPU6050_6Axis_MotionApps20.h",
+		"/C/Users/Jaood/Documents/Arduino/MPU6050_test/MPU6050_test.ino",
+		"/J/home/IP7/www/index.php",
+		"/J/home/IP5/www/index4.php",
+		"/J/home/IP5/www/index2.php",
+		"/J/home/IP5/www/index.php",
+		"/J/home/IP7/www/add.php",
+		"/G/Denwer/home/lr8.ua/www/filemanager.php",
+		"/C/Users/Jaood/AppData/Roaming/Sublime Text 3/Packages/Alignment/Default (Windows).sublime-keymap",
+		"/C/Users/Jaood/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/J/home/IP6/www/index.php",
+		"/J/home/IP/www/index.php",
+		"/J/home/IP3-4/www/4.php",
+		"/C/Users/Jaood/Downloads/Telegram Desktop/Untitled1.py",
+		"/C/Users/Jaood/PycharmProjects/MyFirstProject/Untitled.py",
+		"/C/Users/Jaood/Documents/Arduino/libraries/MPU6050/library.json",
+		"/C/Users/Jaood/Documents/Arduino/libraries/I2Cdev/I2Cdev.cpp",
+		"/C/Users/Jaood/Documents/Arduino/libraries/MPU6050/MPU6050.h",
+		"/C/Users/Jaood/Downloads/Telegram Desktop/sketch_may16a.ino",
+		"/C/Users/Jaood/Documents/Arduino/libraries/MPU6050/examples/MPU6050_DMP6/Processing/MPUTeapot/MPUTeapot.pde",
+		"/C/Users/Jaood/Documents/Arduino/libraries/MPU6050/examples/MPU6050_DMP6/MPU6050_DMP6.ino",
+		"/J/home/IP5/www/process.php",
+		"/J/home/IP5/www/index3.php",
+		"/J/home/IP5/www/index2.html",
+		"/J/home/IP5/www/index.html",
+		"/J/home/IP5/www/index3.html",
+		"/J/home/IP5/www/scripts/script.js",
+		"/J/home/IP5/www/.htaccess",
+		"/J/home/xdebugtest/www/index.php",
+		"/C/Users/Jaood/AppData/Roaming/Sublime Text 3/Packages/User/PHPTools.sublime-settings",
+		"/C/Users/Jaood/AppData/Roaming/Sublime Text 3/Packages/PHPTools/php.tools/codeFormatter.php",
+		"/C/Users/Jaood/AppData/Roaming/Sublime Text 3/Packages/PHPTools/php.tools/php.tools",
+		"/C/Users/Jaood/AppData/Roaming/Sublime Text 3/Packages/User/Xdebug.sublime-settings",
+		"/J/home/xdebugtest/www/myfirstproject.sublime-project",
+		"/C/Users/Jaood/AppData/Roaming/Sublime Text 3/Packages/Xdebug Client/Xdebug.sublime-settings",
+		"/J/home/xdebugtest/www/myfirstproject.sublime-workspace",
+		"/C/Users/Jaood/Desktop/index.php",
+		"/D/backupParts/part4/server/InternetProgramming/www/index.php",
+		"/G/CLAAS (book)/Thumbs.db",
+		"/G/CLAAS (book)/PW.dat",
+		"/J/home/IP3-4/www/test.html",
+		"/J/home/IP3-4/www/3.php",
+		"/J/home/IP3-4/www/index.html",
+		"/J/home/IP2/www/lab2.html",
+		"/J/home/IP2/www/lab2.php",
+		"/J/home/IP3-4/www/index.php",
+		"/C/Users/Jaood/Desktop/WpfRootFinderCS/WpfRootFinderCS/MainWindow.xaml.cs",
+		"/C/Users/Jaood/Desktop/WpfRootFinderCS/WpfRootFinderCS/PolynomialRootFinder.cs",
+		"/C/Users/Jaood/Desktop/WpfRootFinderCS/WpfRootFinderCS/MainWindow.xaml",
+		"/J/home/lab2_Roma/www/lab2_1.html",
+		"/J/home/lab2_Roma/www/lab2_2.html",
+		"/D/output.avi"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 105.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"google",
+			"ua",
+			"knu",
+			"'=>\"$\"",
+			"auth_username",
+			"sendmail_path",
+			"Laravel",
+			"<div class=\"container\">\n    <div class=\"row\">\n        <div class=\"col-md-8 col-md-offset-2\">\n            <div class=\"panel panel-default\">\n                <div class=\"panel-heading\">Dashboard</div>\n\n                <div class=\"panel-body\">\n                    @yield('content')\n                </div>\n            </div>\n        </div>\n    </div>\n</div>\n    </div>",
+			"extensions",
+			"get",
+			"mpu6050",
+			"dmpGetLinearAccel",
+			"real",
+			"red",
+			"orange",
+			"yellow",
+			"black",
+			"style",
+			"3.5",
+			"шендерук"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"#960000",
+			"#F6C823",
+			"red"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/Jaood/Desktop/abc/index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 371,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/Jaood/Desktop/abc/p.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 567,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/D/wamp64/www/abc/index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 367,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								133,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/D/wamp64/www/abc/p.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 536,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								59,
+								59
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 103.0
+	},
+	"output.xdebug":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "blog-project.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"xdebug":
+		{
+			"hide_conflict": false,
+			"restore_index":
+			{
+				"16":
+				{
+					"group": 0,
+					"index": 0
+				}
+			},
+			"restore_layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					],
+					[
+						1,
+						0,
+						2,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					0.651315789474,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			}
+		}
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 189.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 2
+	}
+}
